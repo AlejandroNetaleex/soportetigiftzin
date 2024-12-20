@@ -1421,55 +1421,6 @@ a {
 .cid-uswaSlO2PC .mbr-section-btn {
   color: #000000;
 }
-.cid-uxfneRS5Nr {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #a0e1e1;
-}
-.cid-uxfneRS5Nr .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uxfneRS5Nr .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uxfneRS5Nr .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uxfneRS5Nr .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 80%;
-  }
-}
-.cid-uxfneRS5Nr .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-uxfneRS5Nr .header-menu {
-  margin-top: 2rem;
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-uxfneRS5Nr .header-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-uxfneRS5Nr .header-menu li p {
-  margin: 0;
-}
-.cid-uxfneRS5Nr .content-head {
-  max-width: 800px;
-}
 .cid-usw5GXhlOP {
   padding-top: 3rem;
   padding-bottom: 3rem;
